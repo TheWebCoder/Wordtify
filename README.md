@@ -1,9 +1,6 @@
 # Wordtify
  Wordtify provides stats about the words in an ebook like word count, least used words, most used words, and search that highlights the found words.
 
-## Overview
-Wordtify is an innovative web application designed to analyze ebooks. It provides detailed statistics about the words in an ebook, including word count, most used words, least used words, and a search feature that highlights the found words.
-
 ## Features
 - **Word Count Analysis**: Calculates the total number of words in the ebook.
 - **Most and Least Used Words**: Identifies and displays the most and least used words in the text.
